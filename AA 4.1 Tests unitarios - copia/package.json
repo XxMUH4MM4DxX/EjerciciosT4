@@ -1,0 +1,18 @@
+{
+  "name": "aa-4.1-tests-unitarios",
+  "version": "1.0.0",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "Express": "^3.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
